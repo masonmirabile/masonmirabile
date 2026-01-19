@@ -1,10 +1,10 @@
 ## Hi there, I'm Mason!
 
-# I'm an AP CSP student currently learning Python.
+I'm an AP CSP student currently learning Python.
 
-# I have completed Harvard's CS50 Python course.
+I have completed Harvard's CS50 Python course.
 
-# I am currently working through Harvard's CS50 AI with Python course.
+I am currently working through Harvard's CS50 AI with Python course.
 
 <!--
 **masonmirabile/masonmirabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
